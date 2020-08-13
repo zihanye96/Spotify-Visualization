@@ -1,0 +1,181 @@
+[
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-05-04T15:57:56.898Z[UTC]",
+    "searchQuery" : "robin hood snack",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4k00ns5GeU1dz0tWpjesNu"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-05-04T15:58:52.588Z[UTC]",
+    "searchQuery" : "robinhood",
+    "searchInteractionURIs" : [
+      "spotify:show:5RllMBgvDnTau8nnsCUdse",
+      "spotify:show:5RllMBgvDnTau8nnsCUdse"
+    ]
+  },
+  {
+    "platform" : "ANDROID",
+    "searchTime" : "2020-05-10T00:27:20.288Z[UTC]",
+    "searchQuery" : "tapper",
+    "searchInteractionURIs" : [
+      "spotify:artist:6QbVbUa8Lc5eXH40l8uVZt"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-05-27T17:57:37.364Z[UTC]",
+    "searchQuery" : "wildest dreams",
+    "searchInteractionURIs" : [
+      "spotify:show:0eGx2lRlJSiVjDmV5DGB1L",
+      "spotify:search:wildest%20dreams:tracks"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-14T01:04:36.365Z[UTC]",
+    "searchQuery" : "杰迷",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-14T01:17:00.328Z[UTC]",
+    "searchQuery" : " ",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-14T01:22:08.819Z[UTC]",
+    "searchQuery" : " 太多",
+    "searchInteractionURIs" : [
+      "spotify:track:3RCZM4ugrFr2EDFJb6xZwc"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-19T20:44:28.395Z[UTC]",
+    "searchQuery" : "https://www.linkedin.com/in/zihanye/",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-19T20:45:03.703Z[UTC]",
+    "searchQuery" : "我的北方姑娘",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-19T21:58:54.476Z[UTC]",
+    "searchQuery" : "我的北方姑娘",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T14:51:54.520Z[UTC]",
+    "searchQuery" : " 嗜好",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T15:30:38.391Z[UTC]",
+    "searchQuery" : " 嗜好",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T16:33:17.282Z[UTC]",
+    "searchQuery" : " 嗜好",
+    "searchInteractionURIs" : [
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T18:25:08.985Z[UTC]",
+    "searchQuery" : "flashed junk mind",
+    "searchInteractionURIs" : [
+      "spotify:search:flashed%20junk%20mind:tracks"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T18:25:24.766Z[UTC]",
+    "searchQuery" : "flashed junk mind filous",
+    "searchInteractionURIs" : [
+      "spotify:playlist:2conWCu0y17eBI5MvHGWqc"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T20:38:44.668Z[UTC]",
+    "searchQuery" : "nice to met you",
+    "searchInteractionURIs" : [
+      "spotify:search:nice%20to%20met%20you:tracks"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T20:38:55.856Z[UTC]",
+    "searchQuery" : "nice to met you cro",
+    "searchInteractionURIs" : [
+      "spotify:track:2380FSMCwSRI17cpvG65Xm"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-06-20T20:51:36.257Z[UTC]",
+    "searchQuery" : "mojiti",
+    "searchInteractionURIs" : [
+      "spotify:track:7BYMjh3vWnHU4IFyfZdIDO"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-07-03T14:39:25.171Z[UTC]",
+    "searchQuery" : "有何不可",
+    "searchInteractionURIs" : [
+      "spotify:track:5rXBmcYNJYMYdhwxlMLh0s"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-07-06T00:15:10.603Z[UTC]",
+    "searchQuery" : "wannabe nic",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1pKdsuwMKP4CLtiUODyJsf"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-07-15T04:59:35.558Z[UTC]",
+    "searchQuery" : "itewon",
+    "searchInteractionURIs" : [
+      "spotify:album:2PsmLUt0LAcT2c9xzDmxI0"
+    ]
+  },
+  {
+    "platform" : "ANDROID_ARM",
+    "searchTime" : "2020-07-15T18:21:38.455Z[UTC]",
+    "searchQuery" : "我喜欢",
+    "searchInteractionURIs" : [
+      "spotify:track:3Sk5vML32xkCFsysfuvNYl"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-07-20T03:08:15.128Z[UTC]",
+    "searchQuery" : "eight",
+    "searchInteractionURIs" : [
+      "spotify:track:0pYacDCZuRhcrwGUA5nTBe",
+      "spotify:track:0pYacDCZuRhcrwGUA5nTBe"
+    ]
+  }
+]
