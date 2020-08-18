@@ -7,6 +7,7 @@ In this project, I will visualize my streaming history and playlists on Spotify 
 ## Dataframes
 
 First, I generated dataframes for the songs that I've streamed in the past year and for the songs in my playlists. Here's how the data frames look like:
+
 ![Streaming](Images/streaming_df.png) 
 ![Playlists](Images/playlist_df.png) 
 
